@@ -2210,7 +2210,7 @@ ul {
  * responsive for large than 1200px screen
  */
 
-@media (min-width: 480px) {
+@media (min-width: 100px) {
 
   /**
    * REUSED STYLE
